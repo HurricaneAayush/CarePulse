@@ -2,6 +2,10 @@
   "name": "carepulse",
   "version": "0.1.0",
   "private": true,
+  "overrides": {
+    "glob": "^10.3.10"
+  },
+
   "scripts": {
     "dev": "next dev",
     "build": "next build",
